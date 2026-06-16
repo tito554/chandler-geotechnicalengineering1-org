@@ -1,0 +1,20 @@
+{
+  "name": "Chandler",
+  "short_name": "Chandler",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#4B0082",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en",
+  "orientation": "portrait-secondary",
+  "scope": "/",
+  "description": "Professional geotechnical services in Chandler, USA. Soil studies, testing and technical consulting.",
+  "id": "/chandler-1189"
+}
